@@ -1,4 +1,4 @@
-package Ejercicio58;
+package Ejercicio59;
 public class Animal {
     public void sonido() {
         System.out.println("Sonido base");

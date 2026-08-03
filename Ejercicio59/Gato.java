@@ -1,4 +1,4 @@
-package Ejercicio58;
+package Ejercicio59;
 public class Gato extends Animal {
     @Override
     public void sonido() {
