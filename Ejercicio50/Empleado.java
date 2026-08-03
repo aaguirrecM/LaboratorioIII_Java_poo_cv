@@ -10,6 +10,6 @@ public class Empleado {
 
     public void mostrarDatos() {
         System.out.println("Empleado: " + nombre );
-        System.out.println(" | Salario: Q" + salario);
+        System.out.println("Salario: Q" + salario);
     }
 }

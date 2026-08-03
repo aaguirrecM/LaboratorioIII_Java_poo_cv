@@ -1,7 +1,7 @@
-package Ejercicio54;
+package Ejercicio55;
 public class Perro extends Animal {
     @Override
     public void sonido() {
-        System.out.println("El perro ladra: Guau guau");
+        System.out.println("Guau guau!");
     }
 }
