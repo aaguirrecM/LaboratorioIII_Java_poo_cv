@@ -1,4 +1,4 @@
-package Ejercicio65;
+package Ejercicio66;
 public class Cuadrado extends Figura {
     private double lado;
     public Cuadrado(double lado) { this.lado = lado; }
