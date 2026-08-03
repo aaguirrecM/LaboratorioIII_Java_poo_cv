@@ -5,4 +5,9 @@ public class Cuenta {
     public Cuenta(double saldoInicial) {
         this.saldo = saldoInicial;
     }
+
+    
+    public double getSaldo() {
+        return saldo;
+    }
 }
