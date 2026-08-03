@@ -11,7 +11,7 @@ public class Main {
 
         try {
             ValidadorCodigo.validarLongitudExacta(codigo);
-            System.out.println("¡Código '" + codigo + "' aceptado correctamente!");
+            System.out.println("Código '" + codigo + "' aceptado correctamente");
 
         } catch (IllegalArgumentException e) {
             System.out.println("Error de formato: " + e.getMessage());
