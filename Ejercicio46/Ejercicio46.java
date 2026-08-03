@@ -1,3 +1,4 @@
+package Ejercicio46;
 class EmpleadoClase {
     public String nombre;
 }
